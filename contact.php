@@ -58,34 +58,47 @@
 		</ul>
 	</div>
 </div>
-<div id="photo">
+<div id="content_contact">
+	<h2>
+		Contact Us
+	</h2>
+	<br />
+	<h3>
+		Phone:
+	</h3>
+	<p>
+		(254)231-5904<br />(254)458-2514
+	</p>
+	<h3>
+		Email:
+	</h3>
+	<p>
+		<a href="mailto:zttowell@gmail.com">zttowell@gmail.com</a><br />
+		<a href="mailto:orlando.scott15@beltonnewtech.org">orlando.scott15@beltonnewtech.org</a>
+	</p>
+	<h3>
+		Mail:
+	</h3>
+	<p>
+		PO Box XX Temple TX 76502
+	</p>
 </div>
 <div id="sidebar">
 	<h2>
-		WELCOME
+		Mailing List
 	</h2>
+	<br />
 	<p>
-		Welcome to T&amp;O Web Services. We are a company that provides web services in Bell, Coryell, Lampasas, Williamson, 
-		Milam, and Falls county. We build websites, web applications, and optimize businesses online presance. If you wish to 
-		recieve any of our services or have any questions, do not hesitate to contact us.
+		Subscribe to our mailing list below.
 	</p>
+	<div id="email_form">
+		<form>
+			<label>Email:</label><br /><br /><input type="text" name="email" /><br /><br />
+			<input type="submit" value="Sign Up!" />
+		</form>
+	</div>
 </div>
-<div id="divider">
-
-</div>
-<div id="section0">
-
-</div>
-<div id="section1">
-
-</div>
-<div id="section2">
-
-</div>
-<div id="section3">
-
-</div>
-<div id="footer">
+<div id="footer_contact">
 <p>Copyright &copy; 2013 Zachary Towell and Orlando Scott. All Rights Reserved.</p>
 </div>
 </div>

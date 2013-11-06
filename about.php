@@ -58,34 +58,31 @@
 		</ul>
 	</div>
 </div>
-<div id="photo">
-</div>
-<div id="sidebar">
+<div id="content_about">
 	<h2>
-		WELCOME
+		About Us
 	</h2>
 	<p>
-		Welcome to T&amp;O Web Services. We are a company that provides web services in Bell, Coryell, Lampasas, Williamson, 
-		Milam, and Falls county. We build websites, web applications, and optimize businesses online presance. If you wish to 
-		recieve any of our services or have any questions, do not hesitate to contact us.
+		T and O's is owned and operated by Zachary Towell and Orlando Scott. T and O&apos;s targets businesses and individuals located in and around Central Texas. T and O&apos;s is based out of Temple and Belton, but services Bell, Coryell, Lampasas, Williamson, 
+		Milam, and Falls counties. T and O&apos;s aims to help Businesses create a beautiful online presence. T and O&apos;s will not only create a website to add to your online presence, but will clean up your existing online presence. T and O&apos;s aims to take the hassle out of having a website, while still having an up to date and gorgeous, responsive web page. T and O&apos;s also builds web applications. If you are interested in any of T and O&apos;s services do not hesitate to click on the contact us link above.
 	</p>
 </div>
-<div id="divider">
-
+<div id="sidebar_about">
+	<h2>
+		Mailing List
+	</h2>
+	<br />
+	<p>
+		Subscribe to our mailing list below.
+	</p>
+	<div id="email_form">
+		<form>
+			<label>Email:</label><br /><br /><input type="text" name="email" /><br /><br />
+			<input type="submit" value="Sign Up!" />
+		</form>
+	</div>
 </div>
-<div id="section0">
-
-</div>
-<div id="section1">
-
-</div>
-<div id="section2">
-
-</div>
-<div id="section3">
-
-</div>
-<div id="footer">
+<div id="footer_about">
 <p>Copyright &copy; 2013 Zachary Towell and Orlando Scott. All Rights Reserved.</p>
 </div>
 </div>
