@@ -81,7 +81,20 @@ body {
 	width: 240px;
 	margin-top: 10px;
 	float: right;
+	color: white;
 }
+
+	#sidebar h2 {
+		font-family: serif;
+		padding-top: 0px;
+		padding-left: 52.5px;
+	}
+
+	#sidebar p {
+		padding: 8px;
+		font-family: arial;
+		font-size: 20px;
+	}
 
 #divider {
 	background-color: #1a1a1c;

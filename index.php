@@ -61,7 +61,14 @@
 <div id="photo">
 </div>
 <div id="sidebar">
-
+	<h2>
+		WELCOME
+	</h2>
+	<p>
+		Welcome to T&amp;O Web Services. We are a company that provides web services in Bell, Coryell, Lampasas, Williamson, 
+		Milam, and Falls county. We build websites, web applications, and optimize businesses online presance. If you wish to 
+		recieve any of our services or have any questions, do not hesitate to contact us.
+	</p>
 </div>
 <div id="divider">
 
